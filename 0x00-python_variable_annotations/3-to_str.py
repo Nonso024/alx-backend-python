@@ -1,4 +1,4 @@
-#!/usr/bin/emv python3
+#!/usr/bin/env python3
 """ A type annotated float to str function """
 
 
