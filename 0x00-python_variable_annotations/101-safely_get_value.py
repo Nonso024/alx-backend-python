@@ -1,4 +1,4 @@
-#!/usr/bin/ env python3
+#!/usr/bin/env python3
 """ Adding typed annotations to a given function """
 from typing import Any, Mapping, Union, TypeVar
 
